@@ -1,0 +1,37 @@
+repository,D_total_lines_of_code,D_language
+gina9726/Intent-Anticipate,899,Python
+nerdslab/bgrl,936,Python
+snap-stanford/orca,1108,Python
+Justin1904/Low-rank-Multimodal-Fusion,1122,Python
+NVIDIA/partialconv,1398,Python
+lil-lab/nlvr,1432,HTML
+cocodataset/panopticapi,1492,Python
+microsoft/SGN,1646,Python
+bplank/bilstm-aux,1822,Python
+ruqizhang/csgmcmc,2164,Jupyter Notebook
+microsoft/Relation-Aware-Global-Attention-Networks,2224,Python
+gchrupala/visually-grounded-speech,2369,Python
+afshinrahimi/mmner,2425,Python
+minyoungg/selfconsistency,2633,Jupyter Notebook
+xthan/VITON,2772,Python
+williamleif/GraphSAGE,2874,Python
+JingchunCheng/FAVOS,3135,Python
+Sha-Lab/FEAT,3231,Python
+Zhongdao/Towards-Realtime-MOT,3537,Python
+clic-lab/scone,4620,Python
+dwromero/ckconv,4659,Python
+liuanji/WU-UCT,4789,Python
+ruotianluo/DiscCaptioning,4973,Python
+lyndonzheng/TFill,5249,Python
+MIT-HAN-LAB/temporal-shift-module,5606,Python
+kabkabm/defensegan,5631,Python
+XiaoxiaoGuo/fashion-iq,5759,Python
+yangyanli/PointCNN,7972,Python
+mlii/mfrl,10155,Python
+timmeinhardt/trackformer,10223,Python
+automl/nasbench301,11018,Python
+ChenRocks/UNITER,11126,Python
+bowenliu16/rl_graph_generation,17010,Python
+microsoft/molecule-generation,18320,Python
+alan-turing-institute/bocpdms,18441,Python
+openseg-group/openseg.pytorch,37152,Python
